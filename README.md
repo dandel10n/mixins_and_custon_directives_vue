@@ -1,4 +1,11 @@
-# mixins-and-custom-directives
+# Mixins and Custom Directives exercises
+
+The project contains 2 exercises:
+
+1. Optimise duplicated code from Modal and Tooltip components using mixins
+2. Optimise inefficient scroll functionality in Scroll.vue component with Custom Directives
+
+The solution folder contains master solution for both exercises.
 
 ## Project setup
 ```
@@ -24,6 +31,3 @@ yarn run test
 ```
 yarn run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
